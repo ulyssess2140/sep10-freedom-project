@@ -1,5 +1,17 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .example {background: red;}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  
+}
+
+
 .container{
     position:relative; top:70px;
+    text-align:center;
 }
 
 .card{
@@ -8,14 +20,45 @@
 
 #section-right {
    float: right;
-   width: 220px;
+   width: 300px;
    position:relative; bottom:600px; right:90px;
 }
 
 #info{
-    position:relative; top:280px; left:120px;
+    position:relative; top:480px; left:60px;
 }
 
 .card-group{
     position:relative; top:100px; left:200px
 }
+
+.image{
+    position:relative; left:700px; top:230px;
+
+}
+
+
+
+
+.yes{
+    position:relative; bottom:500px;
+}
+
+#text3{
+    position:relative; top:50px;
+}
+
+#text2{
+    position:relative; top:20px;
+    
+}
+
+#text{
+    position:relative; top:5px;
+}
+
+#card{
+    position:relative; left:850px; bottom:200px;
+}
+
+
