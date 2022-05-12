@@ -1,22 +1,20 @@
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-  .example {background: red;}
-}
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-  
-}
 
 
 .container{
     position:relative; top:70px;
     text-align:center;
+    font-family: Tapestry;
 }
+
+.container-fluid{
+    height:40px;
+}
+
 
 .card{
     position:relative; right:80px; top:200px;
 }
+
 
 #section-right {
    float: right;
@@ -29,7 +27,7 @@
 }
 
 .card-group{
-    position:relative; top:100px; left:200px
+    position:relative; top:200px; left:200px
 }
 
 .image{
@@ -37,6 +35,28 @@
 
 }
 
+  body{
+          background-color:lightblue;
+        }
+
+
+      #drive{
+        position:relative; top:200px;
+      }
+
+      #tablet{
+        position:relative; top:200px;
+      }
+
+#speech{
+    padding-top:100px;
+}
+
+
+  #law  {
+    width: 90%;
+    position:relative; bottom:200px;
+  }
 
 
 
@@ -50,7 +70,7 @@
 
 #text2{
     position:relative; top:20px;
-    
+
 }
 
 #text{
@@ -61,4 +81,18 @@
     position:relative; left:850px; bottom:200px;
 }
 
+#questions{
+    padding-right:150px;
+    position:relative; top:900px; right:380px;
+}
 
+h4{
+    position:relative; top:860px; right:230px;
+    
+}
+
+@media screen and (max-width:600px) {
+    #info{
+        float:none;
+    }
+}

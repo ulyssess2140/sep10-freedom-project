@@ -1,30 +1,24 @@
-
-card group:
-
-
-<div class="card-group">
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
+  <img src="img/OIP.jpg" class="card-img-top"  alt="...">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <h5 class="card-title">Johnnie Cochran</h5>
+      <p class="card-text">Johnnie Cochran was a famous defense lawyer for the O.J Simpson trial. He and his team were able to successfully defend their client and ever since have been famously known for their success</p>
+      <p class="card-text"><small class="text-muted">Last updated 24 mins ago</small></p>
+    </div>
+  </div> 
+  
+  <img src="img/OIP (1).jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Shawn Chapman Holley</h5>
+      <p class="card-text">Shawn Chapman Holley had been recruited by Johnnie Cochran in the O.J Simpson trial. She has also been known to represent celebrities like Kanye West.</p>
+      <p class="card-text"><small class="text-muted">Last updated 18 mins ago</small></p>
     </div>
   </div>
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
+  
+  <img src="img/OIP (2).jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <h5 class="card-title">David Rudolf</h5>
+      <p class="card-text">David Rudolf has been known to take high profile cases like helping writer Michael Patterson who was alleged of killing his wife. David Rudolf is a widely known defense attorney  </p>
+      <p class="card-text"><small class="text-muted">Last updated 7 mins ago</small></p>
     </div>
   </div>
 </div>
